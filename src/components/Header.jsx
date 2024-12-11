@@ -23,6 +23,6 @@ export default function Header() {
             <a href=""><div className='flex flex-col items-center'><div className='w-16 h-16 p-4 rounded-full bg-blue-200 grid place-items-center '><img className='w-10' src="https://www.svgrepo.com/show/308431/bills-check-bill-invoice.svg" alt="" /></div>
             <p className='text-center'>Tramites y <br />solicitudes</p></div></a>
         </div>
-    </div>
+        </div>
   )  
 }
