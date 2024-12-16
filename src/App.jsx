@@ -22,7 +22,7 @@ const App = () => {
   return (
     <div className='pt-52'>
     {isLoged 
-          ? <div><NavBar/>
+          ? <div><NavBar currentUser={currentUser}/>
             <StateAcount user ={currentUser}/>
             <Header/>
             <Section/>
