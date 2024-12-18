@@ -11,12 +11,12 @@ const mockUsers = [
     },
     {
       id: 2,
-      name: "María Gómez",
-      email: "maria.gomez@example.com",
-      password: "password456",
+      name: "christian omar rodriguez velezquez",
+      email: "chrodriguez015@gmail.com",
+      password: "2345",
       accountType: "Cuenta Corriente",
-      accountNumber: "232-879435-02",
-      balance: 1500.50,
+      accountNumber: "778865676567",
+      balance: 12.800.000.00,
       
     },
     {
