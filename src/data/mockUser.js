@@ -11,7 +11,7 @@ const mockUsers = [
     },
     {
       id: 2,
-      name: "christian omar rodriguez velezquez",
+      name: "christian omar rodriguez vele",
       email: "chrodriguez015@gmail.com",
       password: "2345",
       accountType: "Cuenta Corriente",
