@@ -17,7 +17,7 @@ const mockUsers = [
       accountType: "Cuenta Corriente",
       accountNumber: "232-879435-02",
       balance: 1500.50,
-      messages:["mensaje 1", "mensaje 2","mensaje 3"]
+      
     },
     {
       id: 3,
