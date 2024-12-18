@@ -48,7 +48,7 @@ export default function NavBar({ openModal, currentUser }) {
 
       {/* Notificaciones desplegables */}
       {isMessagesVisible && (
-        <div className='absolute top-12 bg-white border rounded shadow-lg'>
+        <div className='absolute top-12 bg-white border rounded shadow-lg z-20 '>
           <ul>
             {userMessages.length > 0 ? (
               userMessages.map((message, index) => (
