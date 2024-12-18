@@ -16,7 +16,7 @@ const mockUsers = [
       password: "password456",
       accountType: "Cuenta Corriente",
       accountNumber: "232-879435-02",
-      balance: 1500.50,
+      balance: "1500.50",
       messages:["mensaje 1", "mensaje 2","mensaje 3"]
     },
     {
@@ -26,7 +26,7 @@ const mockUsers = [
       password: "juan123",
       accountType: "Cuenta de Ahorro",
       accountNumber: "232-879435-03",
-      balance: 780.00,
+      balance: "780.00",
       messages:["mensaje 1", "mensaje 2","mensaje 3"]
     },
     {
@@ -36,7 +36,7 @@ const mockUsers = [
       password: "laura456",
       accountType: "Cuenta Corriente",
       accountNumber: "232-879435-04",
-      balance: 1200.75,
+      balance: "1200.75",
       messages:["mensaje 1", "mensaje 2","mensaje 3"]
     },
     {
@@ -46,7 +46,7 @@ const mockUsers = [
       password: "jose789",
       accountType: "Cuenta de Ahorro",
       accountNumber: "232-879435-05",
-      balance: 450.00,
+      balance: "450.00",
       messages:["mensaje 1", "mensaje 2","mensaje 3"]
     },
     {
@@ -56,7 +56,7 @@ const mockUsers = [
       password: "ana321",
       accountType: "Cuenta Corriente",
       accountNumber: "232-879435-06",
-      balance: 2350.00,
+      balance: "2350.00",
       messages:["mensaje 1", "mensaje 2","mensaje 3"]
     },
     {
@@ -66,7 +66,7 @@ const mockUsers = [
       password: "luis654",
       accountType: "Cuenta de Ahorro",
       accountNumber: "232-879435-07",
-      balance: 320.00,
+      balance: "320.00",
       messages:["mensaje 1", "mensaje 2","mensaje 3"]
     },
     {
@@ -76,7 +76,7 @@ const mockUsers = [
       password: "elena987",
       accountType: "Cuenta Corriente",
       accountNumber: "232-879435-08",
-      balance: 980.00,
+      balance: "980.00",
     },
     {
       id: 9,
@@ -85,7 +85,7 @@ const mockUsers = [
       password: "david456",
       accountType: "Cuenta de Ahorro",
       accountNumber: "232-879435-09",
-      balance: 870.50,
+      balance: "870.50",
     },
     {
       id: 10,
@@ -94,7 +94,7 @@ const mockUsers = [
       password: "carla789",
       accountType: "Cuenta Corriente",
       accountNumber: "232-879435-10",
-      balance: 1250.00,
+      balance: "1250.00",
     },
     {
       id: 11,
