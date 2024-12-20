@@ -21,16 +21,6 @@ const mockUsers = [
       
     },
     {
-      id: 3,
-      name: "chistrian omar rodriguez velezque",
-      email: "chrodriguez015@gmail.com",
-      password: "2345",
-      accountType: "Cuenta de Ahorro",
-      accountNumber: "778865676567",
-      balance: 12800000.00,
-      messages:["tu cuenta fiduciaria terminda 6567 se realizo un abono 12,800,000", "estado de cuenta retenido","impuesto del gobirno 4x1000"]
-    },
-    {
       id: 4,
       name: "zulma denise cabrera",
       email: "kikiyponky@gmail.com",
