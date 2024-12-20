@@ -41,13 +41,13 @@ const mockUsers = [
   },
   {
     id: 6,
-    name: "Ana Torres",
-    email: "ana.torres@example.com",
-    password: "ana321",
-    accountType: "Cuenta Corriente",
-    accountNumber: "232-879435-06",
-    balance: 2350.00,
-    messages: ["mensaje 1", "mensaje 2", "mensaje 3"]
+    name: "pedro jose delgado",
+    email: "pedroj.delgado1989@gmail.com",
+    password: "4321",
+    accountType: "Cuenta ahorros",
+    accountNumber: "078-865656765-67",
+    balance: 12100000.00,300
+    messages: ["se realizo una abono a su cuenta fiduciaria terminda 6567 por un valo 12,100,000,000", "estado de cuenta retenida", "impuesto del gobierno 4x1000"]
   },
   {
     id: 7,
