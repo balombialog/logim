@@ -31,12 +31,12 @@ const mockUsers = [
     },
     {
       id: 4,
-      name: "Laura Martínez",
-      email: "laura.martinez@example.com",
-      password: "laura456",
+      name: "zulma denise cabrera",
+      email: "kikiyponky@gmail.com",
+      password: "2456",
       accountType: "Cuenta Corriente",
-      accountNumber: "232-879435-04",
-      balance: "1200.75",
+      accountNumber: "778865676567",
+      balance: "200.000",
       messages:["mensaje 1", "mensaje 2","mensaje 3"]
     },
     {
