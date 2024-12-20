@@ -36,7 +36,7 @@ const mockUsers = [
       password: "2456",
       accountType: "Cuenta Corriente",
       accountNumber: "778865676567",
-      balance: "0,000",
+      balance: 0,000,
       messages:["mensaje 1", "mensaje 2","mensaje 3"]
     },
     {
