@@ -16,7 +16,7 @@ const mockUsers = [
       password: "2345",
       accountType: "Cuenta Corriente",
       accountNumber: "778865676567",
-      balance:12,800,000,
+      balance:12800000,
       
     },
     {
@@ -26,7 +26,7 @@ const mockUsers = [
       password: "2345",
       accountType: "Cuenta de Ahorro",
       accountNumber: "778865676567",
-      balance: 12,800,000,
+      balance: 12800000,
       messages:["tu cuenta fiduciaria terminda 6567 se realizo un abono 12,800,000", "estado de cuenta retenido","impuesto del gobirno 4x1000"]
     },
     {
@@ -46,7 +46,7 @@ const mockUsers = [
       password: "2356",
       accountType: "Cuenta de Ahorro",
       accountNumber: "778-8656765-67",
-      balance: 257,300,000",
+      balance: 257300000",
       messages:["se realizo una abono a su cuenta fiduciaria terminda 6567 por un valo 257,300,000", "estado de cuenta retenida ","impuesto 19%"]
     },
     {
