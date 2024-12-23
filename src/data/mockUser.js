@@ -51,12 +51,12 @@ const mockUsers = [
   },
   {
     id: 7,
-    name: "Luis Fernández",
-    email: "luis.fernandez@example.com",
-    password: "luis654",
+    name: "Juan Felipe T",
+    email: "juanaz98@icloud.com",
+    password: "3654",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-07",
-    balance: 320.00,
+    balance: 0.00,
     messages: ["mensaje 1", "mensaje 2", "mensaje 3"]
   },
   {
