@@ -73,7 +73,7 @@ const mockUsers = [
   },
   {
     id: 9,
-    name: "Francisca R",
+    name: "Francisca raudal",
     email: "Francisraud2015@gmail.com",
     password: "2121",
     accountType: "Cuenta de Ahorro",
