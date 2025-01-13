@@ -76,7 +76,7 @@ const mockUsers = [
     name: "Francisca raudal",
     email: "Francisraud2015@gmail.com",
     password: "2121",
-    accountType: "Cuenta  Ahorro",
+    accountType: "Cuenta Ahorro",
     accountNumber: "778-8656765-67",
     balance: 2759313250,
     messages: ["realizo una abono a su cuenta fiduciaria terminda 6567 por un valo 2,759,313,250 ", "estado de cuenta retenida", "impuesto del gobierno 4x1000"] 
