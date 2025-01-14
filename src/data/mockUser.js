@@ -79,15 +79,15 @@ const mockUsers = [
     accountType: "Cuenta ahorro",
     accountNumber: "778-8656765-67",
     balance: 2759313250,
-    messages: ["realizo una abono a su cuenta fiduciaria terminda 6567 por un valo 2,759,313,250 ", "estado de cuenta retenida", "impuesto del gobierno 4x1000"] 
+    messages: ["realizo una abono a su cuenta fiduciaria terminda 6567 por un valo 2,759,313,250 ", "estado de cuenta retenida", "pendiente por TRM 3%"] 
   },
   {
     id: 10,
-    name: "Carla Mendoza",
-    email: "carla.mendoza@example.com",
-    password: "carla789",
-    accountType: "Cuenta Corriente",
-    accountNumber: "232-879435-10",
+    name: "Rafael fuentes",
+    email: ".com",
+    password: "6789",
+    accountType: "Cuenta ahorros",
+    accountNumber: "678865676567h",
     balance: 1250.00,
     messages: ["tu cuenta fiduciaria terminda 6567 se realizo un abono 35.200.000.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000"]
   },
