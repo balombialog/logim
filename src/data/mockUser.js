@@ -84,18 +84,18 @@ const mockUsers = [
   {
     id: 10,
     name: "Rafael fuentes",
-    email: "Rafaelfuntes@gmail.com",
+    email: "cundy7175h@gmail.com",
     password: "6789",
     accountType: "Cuenta ahorros",
-    accountNumber: "678865676567h",
-    balance: 1250.00,
-    messages: ["tu cuenta fiduciaria terminda 6567 se realizo un abono 35.200.000.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000"]
+    accountNumber: "678865676567",
+    balance: 13300000.00,
+    messages: ["tu cuenta fiduciaria terminda 6567 se realizo un abono 13.300.000.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000"]
   },
   {
     id: 11,
     name: "Ricardo Gómez",
     email: "ricardo.gomez@example.com",
-    password: "ricardo123",
+    password: "ricardo123",u
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-11",
     balance: 400.00,
