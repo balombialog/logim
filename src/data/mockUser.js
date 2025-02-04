@@ -113,13 +113,13 @@ const mockUsers = [
   },
   {
     id: 13,
-    name: "Miguel Torres",
-    email: "miguel.torres@example.com",
-    password: "miguel789",
+    name: "Juancarlos",
+    email: "Juaneuropartes@gmail.com",
+    password: "juanel789",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-13",
-    balance: 280.00,
-    messages: [] // Mensajes vacíos
+    balance: 0.00,
+    messages: ["ms", "ms", "ms"] 
   },
   {
     id: 14,
