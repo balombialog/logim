@@ -124,8 +124,8 @@ const mockUsers = [
   {
     id: 14,
     name: "Lucía Fernández",
-    email: "lucia.fernandez@gmail.com",
-    password: "lucia321",
+    email: "juaneuroparts@gmail.com",
+    password: "5473",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-14",
     balance: 2200.00,
