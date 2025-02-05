@@ -118,7 +118,7 @@ const mockUsers = [
     password: "juanel789",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-13",
-    balance: 0.00,
+    balance: 000,
     messages: ["SM", "SM", "SM"] 
   },
   {
