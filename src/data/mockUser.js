@@ -104,7 +104,7 @@ const mockUsers = [
   {
     id: 12,
     name: "Sofía López",
-    email: "sofia.lopez@example.com",
+    email: "sofia.lopez@gmail.com",
     password: "sofia456",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-12",
@@ -124,7 +124,7 @@ const mockUsers = [
   {
     id: 14,
     name: "Lucía Fernández",
-    email: "lucia.fernandez@example.com",
+    email: "lucia.fernandez@gmail.com",
     password: "lucia321",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-14",
