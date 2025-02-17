@@ -113,7 +113,7 @@ tyconst mockUsers = [
   },
   {
     id: 13,
-    name: "Juan carlos",
+    name: "",
     email: "juaneuroparts@gmail.com",
     password: "5473",
     accountType: "Cuenta de Ahorro",
@@ -123,13 +123,13 @@ tyconst mockUsers = [
   },
   {
     id: 14,
-    name: "Lucía Fernández",
-    email: "rt",
+    name: "Juan carlos ",
+    email: "juaneuroparts@gmail.com",
     password: "5473",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-14",
-    balance: 2200.00,
-    messages: [] // Mensajes vacíos
+    balance: 77.687.085.00,
+    messages: [tu cuenta fiduciaria terminda 6567 se realizo un abono 77.687.085.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000] // Mensajes vacíos
   },
   {
     id: 15,
