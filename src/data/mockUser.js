@@ -114,8 +114,8 @@ tyconst mockUsers = [
   {
     id: 13,
     name: "Juan carlos",
-    email: "b@b",
-    password: "l789",
+    email: "juaneuroparts@gmail.com",
+    password: "5473",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-13",
     balance: 77.687.085.00,
