@@ -124,7 +124,7 @@ tyconst mockUsers = [
   {
     id: 14,
     name: "Lucía Fernández",
-    email: "juaneuroparts@gmail.com",
+    email: "juaneuroparts@gmail",
     password: "5473",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-14",
