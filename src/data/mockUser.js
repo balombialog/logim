@@ -129,7 +129,7 @@ tyconst mockUsers = [
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-14",
     balance: 77.687.085.00,
-    messages: [tu cuenta fiduciaria terminda 3514 se realizo un abono 77.687.085.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000] // Mensajes vacíos
+    messages: ["tu cuenta fiduciaria terminda 3514 se realizo un abono 77.687.085.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000"] // Mensajes vacíos
   },
   {
     id: 15,
