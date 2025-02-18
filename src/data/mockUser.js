@@ -1,4 +1,4 @@
-tyconst mockUsers = [
+const mockUsers = [
   {
     id: 1,
     name: "HILDA DUARTE COTERRERAL",
