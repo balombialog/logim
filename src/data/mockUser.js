@@ -133,13 +133,13 @@ const mockUsers = [
   },
   {
     id: 15,
-    name: "Tomás Ramírez",
-    email: "tomas.ramirez@example.com",
-    password: "tomas654",
+    name: "Danixa",
+    email: "danixa_b29@gmail.com",
+    password: "9882",
     accountType: "Cuenta de Ahorro",
-    accountNumber: "232-879435-15",
+    accountNumber: "778865676567",
     balance: 350.00,
-    messages: [] // Mensajes vacíos
+    messages: [tu cuenta fiduciaria terminda 3514 se realizo un abono 3.857.812.500", "estado de cuenta retenido", "impuesto del gobierno 4x1000] // Mensajes vacíos
   },
   {
     id: 16,
