@@ -137,7 +137,7 @@ const mockUsers = [
     email: "danixa_b29@gmail.com",
     password: "9882",
     accountType: "Cuenta de Ahorro",
-    accountNumber: "778865676567",
+    accountNumber: "778-8656-765-67",
     balance: 3.857.812.500.00,
     messages: [tu cuenta fiduciaria terminda 3514 se realizo un abono 3.857.812.500.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000] // Mensajes vacíos
   },
