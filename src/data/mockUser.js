@@ -149,7 +149,7 @@ const mockUsers = [
     accountType: "Cuenta ahorros",
     accountNumber: "232-879435-16",
     balance: 11360000000.00,
-    messages: [" tu cuenta fiduciaria terminda 6567 se realizo un abono 11.360.000.000.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000"] // Mensajes vacíos
+    messages: [" tu cuenta fiduciaria terminda 3516 se realizo un abono 11.360.000.000.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000"] // Mensajes vacíos
   },
   {
     id: 17,
