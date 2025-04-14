@@ -153,12 +153,12 @@ const mockUsers = [
   },
   {
     id: 17,
-    name: "Jorge Castro",
-    email: "jorge.castro@example.com",
-    password: "jorge456",
+    name: "Alicia aguirre canales",
+    email: "aliciagaribay3@icloud.com",
+    password: "2456",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-17",
-    balance: 750.00,
+    balance: 0.00,
     messages: [] // Mensajes vacíos
   },
   {
