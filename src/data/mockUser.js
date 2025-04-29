@@ -163,12 +163,12 @@ const mockUsers = [
   },
   {
     id: 18,
-    name: "Isabel Mendoza",
-    email: "isabel.mendoza@example.com",
-    password: "isabel789",
+    name: "Froilan galvez"
+    email: "F82235550@gmail.com",
+    password: "l789",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-18",
-    balance: 2700.00,
+    balance: .00,
     messages: [] // Mensajes vacíos
   },
   {
