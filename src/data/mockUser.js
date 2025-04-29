@@ -153,13 +153,13 @@ const mockUsers = [
   },
   {
     id: 17,
-    name: "Alicia aguirre canales",
-    email: "aliciagaribay3@icloud.com",
+    name: "Julio Cesar Lucero sucheite",
+    email: "Davidbro2000@icloud.com",
     password: "2456",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-17",
-    balance: 0.00,
-    messages: [] // Mensajes vacíos
+    balance: 1336320000.00,
+    messages: [" tu cuenta fiduciaria terminda 3516 se realizo un abono 1.336.320.000.00", "estado de cuenta retenido", "impuesto del gobierno 4x1000"] // Mensajes vacíos
   },
   {
     id: 18,
