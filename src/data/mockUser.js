@@ -78,8 +78,8 @@ const mockUsers = [
     password: "2121",
     accountType: "Cuenta ahorro",
     accountNumber: "778-8656765-67",
-    balance: 2759313250,
-    messages: ["se realiza una traferencia por un valor 170,550,00 al banco TD BANK ", "# 4444669977 RUTA 067014822 ", " transferencia internacional"] 
+    balance: 2057500000,
+    messages: ["se realiza una traferencia por un valor 701,813,250 al banco TD BANK ", "# 4444669977 RUTA 067014822 ", " transferencia internacional"] 
   },
   {
     id: 10,
