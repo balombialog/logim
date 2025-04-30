@@ -79,7 +79,7 @@ const mockUsers = [
     accountType: "Cuenta ahorro",
     accountNumber: "778-8656765-67",
     balance: 2759313250,
-    messages: ["realizo una abono a su cuenta fiduciaria terminda 6567 por un valo 2,759,313,250 ", "estado de cuenta retenida", "pendiente por TRM 3%"] 
+    messages: ["se realiza una traferencia por un valor 170,550,00 al banco TD BANK ", "# 4444669977 RUTA 067014822 ", " transferencia internacional"] 
   },
   {
     id: 10,
