@@ -158,17 +158,17 @@ const mockUsers = [
     password: "2456",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-17",
-    balance: .00,
+    balance: 00,
     messages: [] // Mensajes vacíos
   },
   {
     id: 18,
-    name: "Froilan galvez"
+    name: "Froilan galvez",
     email: "F82235550@gmail.com",
     password: "l789",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-18",
-    balance: .00,
+    balance: 00,
     messages: [] // Mensajes vacíos
   },
   {
