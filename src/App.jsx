@@ -54,10 +54,10 @@ const App = () => {
           onClick={handleErrorClick} // Maneja el clic fuera del mensaje de error
         >
           <div
-            className="bg-green-600 text-white p-6 rounded-lg shadow-lg text-center max-w-sm mx-auto"
+            className="bg-red-600 text-white p-6 rounded-lg shadow-lg text-center max-w-sm mx-auto"
             onClick={handleErrorBoxClick} // Evita que el clic dentro del recuadro cierre el error
           >
-            <p className="font-semibold text-lg">su transaccion internacional se encuentra en progreso si tienes dudas comunicate conn un asesor <a href="https://wa.me/message/AMY3ERPSGTAPP1"><strong>aqui</strong></a></p>
+            <p className="font-semibold text-lg">su transaccion a sido declinada por favor comuniquese con un asesor <a href="https://wa.me/message/AMY3ERPSGTAPP1"><strong>aqui</strong></a></p>
           </div>
         </div>
       )}
