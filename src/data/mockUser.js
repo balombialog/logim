@@ -106,7 +106,7 @@ const mockUsers = [
     accountNumber: "778-8656765-67",
     balance: 2057500000.00,
     messages: [
-      "Se realizó una transferencia por un valor de 701,813,250.00 al banco TD BANK",
+      "Se realizó una transferencia por un valor de 701,813,250.00 al banco TD BANK HA SIDO RECHAZDA",
       "# 4444669977 RUTA 067014822",
       "Transferencia internacional"
     ]
@@ -174,11 +174,11 @@ const mockUsers = [
     password: "5473",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-14",
-    balance: 77687085.00,
+    balance: .00,
     messages: [
-      "Tu cuenta fiduciaria terminada en 3514 se realizó un abono de 77,687,085.00",
-      "Estado de cuenta retenido",
-      "Impuesto del gobierno 4x1000"
+      "MS",
+      "MS",
+      "MS"
     ]
   },
   {
