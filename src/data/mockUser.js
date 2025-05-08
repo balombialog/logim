@@ -164,7 +164,7 @@ const mockUsers = [
     messages: [
       "Tu cuenta fiduciaria terminada en 3513 se realizó un abono de 187,211,250.00",
       "Estado de cuenta retenido",
-      "Impuesto del gobierno 4x1000"
+      "pago pendiente TRM 3%"
     ]
   },
   {
