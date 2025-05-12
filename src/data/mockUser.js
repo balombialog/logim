@@ -241,12 +241,12 @@ const mockUsers = [
   },
   {
     id: 20,
-    name: "Paula López",
-    email: "paula.lopez@example.com",
-    password: "paula456",
+    name: "Julio cesar",
+    email: "Davidbro200@loud.com",
+    password: "2456",
     accountType: "Cuenta Corriente",
-    accountNumber: "232-879435-20",
-    balance: 1350.00,
+    accountNumber: "202-879435-17",
+    balance: .00,
     messages: []
   }
 ];
