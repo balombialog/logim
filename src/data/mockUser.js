@@ -29,17 +29,13 @@ const mockUsers = [
   },
   {
     id: 4,
-    name: "Zulma Denise Cabrera",
-    email: "kikiyponky@gmail.com",
+    name: "Froilan Giron",
+    email: "F82235550@gmail.com",
     password: "2456",
     accountType: "Cuenta Corriente",
     accountNumber: "778865676567",
     balance: 0.00,
-    messages: [
-      "Se realizó un abono de 0.00 a su cuenta fiduciaria terminada en 6567",
-      "Estado de cuenta reembolsado",
-      "MS"
-    ]
+    messages: [ ]
   },
   {
     id: 5,
