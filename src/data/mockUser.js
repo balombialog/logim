@@ -233,7 +233,7 @@ const mockUsers = [
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-19",
     balance: 0.00,
-    messages: ["MIGUEL FUENTES","se registra un abono ala cuenta terminada 6567 por un valo 15.200.000.000","estado de cuenta retenido","impuesto del gobierno 4x100"]
+    messages: ["MIGUEL FUENTES","se registra un abono ala cuenta terminada 6567 por un valo 5.440.000.000","estado de cuenta retenido","impuesto del gobierno 4x100"]
   },
   {
     id: 20,
