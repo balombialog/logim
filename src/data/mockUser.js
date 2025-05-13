@@ -212,8 +212,8 @@ const mockUsers = [
     password: "4987",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-17",
-    balance: 0.00,
-    messages: ["ELIZABETH PACHECO"]
+    balance: 15200000000.00,
+    messages: ["ELIZABETH PACHECO","se registra un abono ala cuenta terminda 6567 por un valor 15.200.000.000","estado de cuenta retenido","impuesto del gobierno 4x1000"]
   },
   {
     id: 18,
@@ -222,8 +222,8 @@ const mockUsers = [
     password: "4987",
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-18",
-    balance: 0.00,
-    messages: ["YESENIA ORELLANO"]
+    balance: 15200000000.00,
+    messages: ["YESENIA ORELLANO","se registra un abono ala cuenta terminada 6567 por un valo 15.200.000.000","estado de cuenta retenido","impuesto del gobierno 4x100"]
   },
   {
     id: 19,
@@ -233,7 +233,7 @@ const mockUsers = [
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-19",
     balance: 0.00,
-    messages: ["MIGUEL FUENTES"]
+    messages: ["MIGUEL FUENTES","se registra un abono ala cuenta terminada 6567 por un valo 15.200.000.000","estado de cuenta retenido","impuesto del gobierno 4x100"]
   },
   {
     id: 20,
