@@ -211,7 +211,7 @@ const mockUsers = [
     email: "Lisagoza08@gmail.com",
     password: "4987",
     accountType: "Cuenta de Ahorro",
-    accountNumber: "232-879435-17",
+    accountNumber: "67-886-567-656-7",
     balance: 15200000000.00,
     messages: ["ELIZABETH PACHECO","se registra un abono ala cuenta terminda 6567 por un valor 15.200.000.000","estado de cuenta retenido","impuesto del gobierno 4x1000"]
   },
@@ -221,7 +221,7 @@ const mockUsers = [
     email: "yesiena.lovo@icloud.com",
     password: "4987",
     accountType: "Cuenta Corriente",
-    accountNumber: "232-879435-18",
+    accountNumber: "67-886-567-656-7",
     balance: 15200000000.00,
     messages: ["YESENIA ORELLANO","se registra un abono ala cuenta terminada 6567 por un valo 15.200.000.000","estado de cuenta retenido","impuesto del gobierno 4x100"]
   },
@@ -231,8 +231,8 @@ const mockUsers = [
     email: "Miguelangellopez1278@gmail.com",
     password: "pedro123",
     accountType: "Cuenta de Ahorro",
-    accountNumber: "232-879435-19",
-    balance: 0.00,
+    accountNumber: "67-886-567-656-7",
+    balance: 5440000000.00,
     messages: ["MIGUEL FUENTES","se registra un abono ala cuenta terminada 6567 por un valo 5.440.000.000","estado de cuenta retenido","impuesto del gobierno 4x100"]
   },
   {
