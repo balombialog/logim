@@ -213,7 +213,7 @@ const mockUsers = [
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-17",
     balance: 0.00,
-    messages: []
+    messages: ["ELIZABETH PACHECO"]
   },
   {
     id: 18,
@@ -223,7 +223,7 @@ const mockUsers = [
     accountType: "Cuenta Corriente",
     accountNumber: "232-879435-18",
     balance: 0.00,
-    messages: []
+    messages: ["YESENIA ORELLANO"]
   },
   {
     id: 19,
@@ -233,7 +233,7 @@ const mockUsers = [
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-19",
     balance: 0.00,
-    messages: []
+    messages: ["MIGUEL FUENTES"]
   },
   {
     id: 20,
