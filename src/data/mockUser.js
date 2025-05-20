@@ -242,8 +242,8 @@ const mockUsers = [
     password: "2456",
     accountType: "Cuenta Corriente",
     accountNumber: "202-879435-17",
-    balance: .00,
-    messages: []
+    balance: 133097805760.00,
+    messages: ["Julio Cesar","se registra un abono ala cuenta terminada 3517 por un valo 1.330.978.760.000","estado de cuenta retenido","impuesto del gobierno 4x100"]
   }
 ];
 
