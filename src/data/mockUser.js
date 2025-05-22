@@ -209,7 +209,7 @@ const mockUsers = [
     id: 17,
     name: "ELIZABETH PACHECO ",
     email: "Lisagoza08@gmail.com",
-    password: "4987",
+    password: "3156",
     accountType: "Cuenta de Ahorro",
     accountNumber: "67-886-567-656-7",
     balance: 15200000000.00,
