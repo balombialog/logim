@@ -1,16 +1,16 @@
 const mockUsers = [
   {
     id: 1,
-    name: "HILDA DUARTE COTERRERAL",
-    email: "HIDC23891@1",
+    name: "Juana Jovel",
+    email: "franciscajovel1@gmail.com",
     password: "2345",
     accountType: "Cuenta de Ahorro",
     accountNumber: "678865676567",
-    balance: 3520000000.00,
+    balance: .00,
     messages: [
-      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 35,200,000.00",
-      "Estado de cuenta retenido",
-      "Impuesto del gobierno 4x1000"
+      "MS",
+      "MS",
+      "MS"
     ]
   },
   {
