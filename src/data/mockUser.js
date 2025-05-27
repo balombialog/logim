@@ -109,16 +109,16 @@ const mockUsers = [
   },
   {
     id: 10,
-    name: "Menjamin Jimeses",
+    name: "Benjamin Jimenez",
     email: "benjaminagilera80@gmail.com",
     password: "6789",
     accountType: "Cuenta de Ahorro",
     accountNumber: "678865676567",
-    balance: .00,
+    balance: 13600000.00,
     messages: [
-      "MS",
-      "MS",
-      "MS"
+      "BENJAMIN JIMENEZ Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 13,600,000.00",
+      "Estado de cuenta retenido",
+      "Estado de cuenta retenido"
     ]
   },
   {
@@ -146,7 +146,7 @@ const mockUsers = [
     messages: [
       "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 35,200,000.00",
       "Estado de cuenta retenido",
-      "Impuesto del gobierno 4x1000"
+      "Estado de cuenta retenido"
     ]
   },
   {
