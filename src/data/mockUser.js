@@ -179,16 +179,16 @@ const mockUsers = [
   },
   {
     id: 15,
-    name: "Danixa",
-    email: "danixa_b29@gmail.com",
+    name: "SandraMelendez",
+    email: "sandra.melendez1207@gmail.com",
     password: "9882",
     accountType: "Cuenta de Ahorro",
     accountNumber: "778-8656765-67",
-    balance: 3857812500.00,
+    balance: 0.00,
     messages: [
-      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 3,857,812,500.00",
-      "Estado de cuenta retenido",
-      "Impuesto del gobierno 4x1000"
+      "MS",
+      "MS",
+      "MS"
     ]
   },
   {
