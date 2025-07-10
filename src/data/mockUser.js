@@ -95,14 +95,14 @@ const mockUsers = [
   },
   {
     id: 9,
-    name: "Francisca Raudal",
-    email: "Francisraud2015@gmail.com",
+    name: "Saul arreola",
+    email: "Saularreolq@gmail.com",
     password: "2121",
     accountType: "Cuenta de Ahorro",
     accountNumber: "778-8656765-67",
-    balance: 2759313250.00,
+    balance: 0.00,
     messages: [
-      "Se realizó una transferencia por un valor de 701,813,250.00 al banco TD BANK HA SIDO CANCELADA",
+      "mj",
       "MJ",
       "MJ"
     ]
