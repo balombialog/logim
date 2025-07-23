@@ -184,11 +184,11 @@ const mockUsers = [
     password: "9882",
     accountType: "Cuenta de Ahorro",
     accountNumber: "778-8656765-67",
-    balance: 0.00,
+    balance: 64298850.00,
     messages: [
-      "MS",
-      "MS",
-      "MS"
+      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 64,298,850,00",
+      "estado de cuenta retenido",
+      "Impuesto del gobierno 4x1000"
     ]
   },
   {
