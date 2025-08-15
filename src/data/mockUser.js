@@ -207,13 +207,13 @@ const mockUsers = [
   },
   {
     id: 17,
-    name: "ELIZABETH PACHECO ",
-    email: "Lisagonza08@gmail.com",
+    name: "DAVID ESCOBAR ",
+    email: "esco3468@gmail.com",
     password: "3156",
     accountType: "Cuenta de Ahorro",
     accountNumber: "67-886-567-656-7",
     balance: 0.00,
-    messages: ["ELIZABETH PACHECO","se registra un retiro en la cuenta terminda 6567 por un valor 15.200.000.000","sucursal bancaria fontibon","MS"]
+    messages: ["david escobar","se registra un abono en la cuenta terminda 6567 por un valor 15.200.000.000","retenido por pago de impuestos 4x1000","MS"]
   },
   {
     id: 18,
