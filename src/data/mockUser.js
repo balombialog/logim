@@ -67,16 +67,16 @@ const mockUsers = [
   },
   {
     id: 7,
-    name: "Juan Felipe T",
-    email: "juanaz98@icloud.com",
+    name: "MARIO23I",
+    email: "Mhernan1609@gmail.com",
     password: "3654",
     accountType: "Cuenta de Ahorro",
     accountNumber: "232-879435-07",
-    balance: 769505000.00,
+    balance: 12066000y.00,
     messages: [
-      "Realizó un abono de 769,505,000.00 a su cuenta fiduciaria terminada en 3507",
+      "Realizó un abono de 12,066,000.00 a su cuenta fiduciaria terminada en 3507",
       "Estado de cuenta retenido",
-      "TRM cambio de divisa"
+      "4x1000 impuesto del gobierno"
     ]
   },
   {
@@ -213,7 +213,7 @@ const mockUsers = [
     accountType: "Cuenta de Ahorro",
     accountNumber: "67-886-567-656-7",
     balance: 0.00,
-    messages: ["david escobar","se registra un abono en la cuenta terminda 6567 por un valor 15.200.000.000","retenido por pago de impuestos 4x1000","MS"]
+    messages: ["david escobar","se registra un abono en la cuenta terminda 6567 por un valor 15.200.000.000","retenido","MS"]
   },
   {
     id: 18,
@@ -222,8 +222,8 @@ const mockUsers = [
     password: "4987",
     accountType: "Cuenta Corriente",
     accountNumber: "67-886-567-656-7",
-    balance: 0.00,
-    messages: ["Davida escobar","MSJ","MSJ","MSJ"]
+    balance: 16102000000.00,
+    messages: ["Davida escobar","se registra un abono en la cuenta terminda 6567 por un valor 16.102.000.000","estado de cuenta retenido ","impuesto del gobierno de 4x1000"]
   },
   {
     id: 19,
