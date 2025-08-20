@@ -217,13 +217,13 @@ const mockUsers = [
   },
   {
     id: 18,
-    name: "YESENIA ORELLANA",
-    email: "yesiena.lovo@icloud.com",
+    name: "DAVID ESCOBAR",
+    email: "esco3468@gmail.com",
     password: "4987",
     accountType: "Cuenta Corriente",
     accountNumber: "67-886-567-656-7",
-    balance: 15200000000.00,
-    messages: ["YESENIA ORELLANO","se registra un abono ala cuenta terminada 6567 por un valo 15.200.000.000","estado de cuenta retenido","impuesto del gobierno 4x100"]
+    balance: 0.00,
+    messages: ["Davida escobar","MSJ","MSJ","MSJ"]
   },
   {
     id: 19,
