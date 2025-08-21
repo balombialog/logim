@@ -212,8 +212,8 @@ const mockUsers = [
     password: "3156",
     accountType: "Cuenta de Ahorro",
     accountNumber: "67-886-567-656-7",
-    balance: 0.00,
-    messages: ["david escobar","se registra un abono en la cuenta terminda 6567 por un valor 15.200.000.000","retenido","MS"]
+    balance: 16200000000.00,
+    messages: ["david escobar","se registra un abono en la cuenta terminda 6567 por un valor 16.200.000.000","retenido","MS"]
   },
   {
     id: 18,
