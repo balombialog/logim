@@ -1,9 +1,9 @@
 const mockUsers = [
   {
     id: 1,
-    name: "Juana Jovel",
-    email: "franciscajovel1@gmail.com",
-    password: "2345",
+    name: "Marcelino gonzales",
+    email: "gloriav2003@icloud.com",
+    password: "4987",
     accountType: "Cuenta de Ahorro",
     accountNumber: "678865676567",
     balance: .00,
