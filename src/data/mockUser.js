@@ -207,8 +207,8 @@ const mockUsers = [
   },
   {
     id: 17,
-    name: "MARCELINO GONZALES ",
-    email: "gloriav2003@gmail.com",
+    name: "rtyu",
+    email: "gloriavjl.com",
     password: "4987",
     accountType: "Cuenta de Ahorro",
     accountNumber: "67-886-567-656-7",
