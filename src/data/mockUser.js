@@ -2,7 +2,7 @@ const mockUsers = [
   {
     id: 1,
     name: "Marcelino gonzales",
-    email: "gloriav2003@icloud.com",
+    email: "ms",
     password: "4987",
     accountType: "Cuenta de Ahorro",
     accountNumber: "678865676567",
@@ -217,8 +217,8 @@ const mockUsers = [
   },
   {
     id: 18,
-    name: "DAVID ESCOBAR",
-    email: "esco3468@gmail.com",
+    name: "Marcelino gonzales",
+    email: "Gloriav2003@icloud.com",
     password: "4987",
     accountType: "Cuenta Corriente",
     accountNumber: "67-886-567-656-7",
