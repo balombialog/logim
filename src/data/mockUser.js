@@ -207,13 +207,13 @@ const mockUsers = [
   },
   {
     id: 17,
-    name: "DAVID ESCOBAR ",
-    email: "esco3468@gmail.com",
-    password: "3156",
+    name: "MARCELINO GOMEZ ",
+    email: "gloriav2003@icloud.com",
+    password: "4887",
     accountType: "Cuenta de Ahorro",
     accountNumber: "67-886-567-656-7",
     balance: 16200000000.00,
-    messages: ["david escobar","se registra un abono en la cuenta terminda 6567 por un valor 16.200.000.000","retenido","MS"]
+    messages: ["Marcelino gomez","ms","ms","MS"]
   },
   {
     id: 18,
