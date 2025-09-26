@@ -207,7 +207,7 @@ const mockUsers = [
   },
   {
     id: 17,
-    name: "MARCELINO GOMEZ ",
+    name: "MARCELINO GOMES ",
     email: "gloriav2003@icloud.com",
     password: "4887",
     accountType: "Cuenta de Ahorro",
