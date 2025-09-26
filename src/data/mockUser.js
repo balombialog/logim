@@ -6,7 +6,7 @@ const mockUsers = [
     password: "4987",
     accountType: "Cuenta de Ahorro",
     accountNumber: "678865676567",
-    balance: .00,
+    balance: 00,
     messages: [
       "MS",
       "MS",
