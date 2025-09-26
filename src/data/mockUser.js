@@ -205,16 +205,7 @@ const mockUsers = [
       "Impuesto del gobierno 4x1000"
     ]
   },
-  {
-    id: 17,
-    name: "rtyu",
-    email: "gloriavjl.com",
-    password: "4987",
-    accountType: "Cuenta de Ahorro",
-    accountNumber: "67-886-567-656-7",
-    balance: 0.00,
-    messages: ["Marcelino gonzales","ms","ms","MS"]
-  },
+  
   {
     id: 18,
     name: "Marcelino gonzales",
@@ -223,7 +214,9 @@ const mockUsers = [
     accountType: "Cuenta Corriente",
     accountNumber: "67-886-567-656-7",
     balance: 16102000000.00,
-    messages: ["Davida escobar","se registra un abono en la cuenta terminda 6567 por un valor 16.102.000.000","estado de cuenta retenido ","impuesto del gobierno de 4x1000"]
+    messages: ["se registra un abono en la cuenta terminda 6567 por un valor 16,102,000.000",
+               "estado de cuenta retenido ",
+               "impuesto del gobierno de 4x1000"]
   },
   {
     id: 19,
