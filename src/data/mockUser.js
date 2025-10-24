@@ -34,8 +34,10 @@ const mockUsers = [
     password: "2456",
     accountType: "Cuenta Corriente",
     accountNumber: "778865676567",
-    balance: 0.00,
-    messages: [ ]
+    balance: 3600000000.00,
+    messages: ["Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 3,600,000.000",
+      "Estado de cuenta retenido",
+      "Impuesto del gobierno 4x1000" ]
   },
   {
     id: 5,
@@ -208,7 +210,7 @@ const mockUsers = [
   
   {
     id: 18,
-    name: "Marcelino gonzales",
+    name: "Marcelino gonzalez",
     email: "Gloriav2003@icloud.com",
     password: "4987",
     accountType: "Cuenta Corriente",
