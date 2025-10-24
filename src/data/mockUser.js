@@ -29,8 +29,8 @@ const mockUsers = [
   },
   {
     id: 4,
-    name: "Froilan Giron",
-    email: "F82235550@gmail.com",
+    name: "MIALAGROS GONZALEZ",
+    email: "milagrosanchez813@gmail.com",
     password: "2456",
     accountType: "Cuenta Corriente",
     accountNumber: "778865676567",
