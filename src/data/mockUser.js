@@ -15,54 +15,54 @@ const mockUsers = [
   },
   {
     id: 2,
-    name: "Christia Vele",
-    email: "chrodriguez015@gmail.com",
-    password: "2345",
+    name: "Adrian Hernandez Vargas",
+    email: "adrianhernandez@gmail.com",
+    password: "5473",
     accountType: "Cuenta de Ahorro",
     accountNumber: "778865676567",
-    balance: 12800000.00,
+    balance: 175306250.00,
     messages: [
-      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 12,800,000.00",
+      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 175,306,250.00",
       "Estado de cuenta retenido",
-      "Impuesto del gobierno 4x1000"
+      "Impuesto gubernamental"
     ]
   },
   {
     id: 4,
-    name: "MIALAGROS GONZALEZ",
-    email: "milagrosanchez813@gmail.com",
-    password: "2456",
+    name: "ALEIDA DELIA IZQUIERDO",
+    email: "aleidadelia@gmail.com",
+    password: "5473",
     accountType: "Cuenta Corriente",
     accountNumber: "778865676567",
-    balance: 3600000000.00,
-    messages: ["Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 3,600,000.000",
+    balance: 2887900.00,
+    messages: ["Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 2,887,900.00",
       "Estado de cuenta retenido",
-      "Impuesto del gobierno 4x1000" ]
+      "Impuesto gubernamental" ]
   },
   {
     id: 5,
-    name: "Alicia Nava",
-    email: "lixinava24@hotmail.com",
-    password: "2356",
+    name: "Nicolas Rubio Solorio",
+    email: "nicolasrubio@hotmail.com",
+    password: "5473",
     accountType: "Cuenta de Ahorro",
     accountNumber: "778-8656765-67",
-    balance: 257300000.00,
+    balance: 1287887.00,
     messages: [
-      "Se realizó un abono de 257,300,000.00 a su cuenta fiduciaria terminada en 6567",
+      "Se realizó un abono de 1,287,887.00 a su cuenta fiduciaria terminada en 6567",
       "Estado de cuenta retenida",
       "Impuesto 19%"
     ]
   },
   {
     id: 6,
-    name: "Pedro Jose Delgado",
-    email: "pedroj.delgado1989@gmail.com",
-    password: "4321",
+    name: "Roberto Galdamez Mejia",
+    email: "Robertogaldamez@gmail.com",
+    password: "5473",
     accountType: "Cuenta de Ahorro",
     accountNumber: "078-865656765-67",
-    balance: 12100000.00,
+    balance: 1387887.00,
     messages: [
-      "Se realizó un abono de 12,100,000,000.00 a su cuenta fiduciaria terminada en 6567",
+      "Se realizó un abono de 1,387,887.00 a su cuenta fiduciaria terminada en 6567",
       "Estado de cuenta retenido",
       "Impuesto del gobierno 4x1000"
     ]
