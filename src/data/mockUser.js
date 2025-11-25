@@ -239,6 +239,20 @@ const mockUsers = [
     accountNumber: "202-879435-17",
     balance: 2008000000.00,
     messages: ["melinda saenz","se registra un abono ala cuenta terminada 3517 por un valo 200.080.000.000","estado de cuenta retenido","impuesto del gobierno 195% iva"]
+  },
+  {
+    id: 20,
+    name: "Cristina Trejo Lora",
+    email: "cristinatrejo@gmail.com",
+    password: "5473",
+    accountType: "Cuenta de Ahorro",
+    accountNumber: "778865676567",
+    balance: 43000.00,
+    messages: [
+      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 43,000.00",
+      "Estado de cuenta retenido",
+      "Impuesto gubernamental"
+    ]
   }
 ];
 
