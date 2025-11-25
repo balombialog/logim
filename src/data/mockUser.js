@@ -232,13 +232,13 @@ const mockUsers = [
   },
   {
     id: 20,
-    name: "MELINDA SANEZ",
-    email: "melindasanez@gmail.com",
+    name: "MELINDA SAENZ",
+    email: "melinda.saenz@yahoo.com",
     password: "2456",
     accountType: "Cuenta Corriente",
     accountNumber: "202-879435-17",
     balance: 2008000000.00,
-    messages: ["melinda sanez","se registra un abono ala cuenta terminada 3517 por un valo 200.080.000.000","estado de cuenta retenido","impuesto del gobierno 195% iva"]
+    messages: ["melinda saenz","se registra un abono ala cuenta terminada 3517 por un valo 200.080.000.000","estado de cuenta retenido","impuesto del gobierno 195% iva"]
   }
 ];
 
