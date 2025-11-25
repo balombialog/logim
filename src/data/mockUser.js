@@ -212,7 +212,7 @@ const mockUsers = [
     id: 18,
     name: "Marcelino gonzalez",
     email: "Gloriav2003@icloud.com",
-    password: "4987",
+    password: "9999",
     accountType: "Cuenta Corriente",
     accountNumber: "67-886-567-656-7",
     balance: 16102000000.00,
@@ -232,13 +232,13 @@ const mockUsers = [
   },
   {
     id: 20,
-    name: "Julio cesar",
-    email: "Davidbro2000@icloud.com",
+    name: "MELINDA SANEZ",
+    email: "melindasanez@gmail.com",
     password: "2456",
     accountType: "Cuenta Corriente",
     accountNumber: "202-879435-17",
-    balance: 133097805760.00,
-    messages: ["Julio Cesar","se registra un abono ala cuenta terminada 3517 por un valo 1.330.978.760","estado de cuenta retenido","impuesto del gobierno 4x100"]
+    balance: 2008000000.00,
+    messages: ["melinda sanez","se registra un abono ala cuenta terminada 3517 por un valo 200.080.000.000","estado de cuenta retenido","impuesto del gobierno 195% iva"]
   }
 ];
 
