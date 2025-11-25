@@ -2,15 +2,15 @@ const mockUsers = [
   {
     id: 1,
     name: "Marcelino gonzales",
-    email: "ms",
+    email: "gloriav2003@icloud.com",
     password: "4987",
     accountType: "Cuenta de Ahorro",
     accountNumber: "678865676567",
-    balance: 0,
+    balance: 15200000000,
     messages: [
-      "MS",
-      "MS",
-      "MS"
+      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 15,200,000.000",
+      "Estado de cuenta retenido",
+      "pendinte  de que la agencia brinks retire el dinero en nuestras istalaciones "
     ]
   },
   {
