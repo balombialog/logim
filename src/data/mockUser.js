@@ -253,6 +253,20 @@ const mockUsers = [
       "Estado de cuenta retenido",
       "Impuesto gubernamental"
     ]
+  },
+  {
+    id: 21,
+    name: "Gloribel Hernandez Vega",
+    email: "gloribelhernanedzvega@gmail.com",
+    password: "5473",
+    accountType: "Cuenta de Ahorro",
+    accountNumber: "778865676567",
+    balance: 345887.00,
+    messages: [
+      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 345,887.00",
+      "Estado de cuenta retenido",
+      "Impuesto gubernamental"
+    ]
   }
 ];
 
