@@ -24,8 +24,8 @@ const mockUsers = [
     messages: [
       "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 412,000,000.00",
       "Estado de cuenta retenido",
-      "por pago del iva 19%"
-    ]
+      "por pago del iva 19%"]
+    
   },
   {
     id: 4,
