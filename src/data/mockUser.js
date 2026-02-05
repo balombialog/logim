@@ -15,16 +15,16 @@ const mockUsers = [
   },
   {
     id: 2,
-    name: "Adrian Hernandez Vargas",
-    email: "adrianhernandez@gmail.com",
+    name: "Saul garcia zamorateguij",
+    email: "Saulgarcia@gmail.com",
     password: "5473",
     accountType: "Cuenta de Ahorro",
     accountNumber: "778865676567",
-    balance: 175306250.00,
+    balance: 412000000.00,
     messages: [
-      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 175,306,250.00",
+      "Tu cuenta fiduciaria terminada en 6567 se realizó un abono de 412,000,000.00",
       "Estado de cuenta retenido",
-      "Impuesto gubernamental"
+      "por pago del iva 19%"
     ]
   },
   {
