@@ -15,7 +15,7 @@ const mockUsers = [
   },
   {
     id: 2,
-    name: "Saul garcia zamorateguij",
+    name: "Saul garcia zamorategui",
     email: "Saulgarcia@gmail.com",
     password: "5473",
     accountType: "Cuenta de Ahorro",
