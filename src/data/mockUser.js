@@ -55,16 +55,16 @@ const mockUsers = [
   },
   {
     id: 6,
-    name: "Roberto Galdamez Mejia",
-    email: "Robertogaldamez@gmail.com",
+    name: "Julian leyes agustin",
+    email: "agustinjleyes73@gmail.comhy",
     password: "5473",
     accountType: "Cuenta de Ahorro",
-    accountNumber: "078-865656765-67",
-    balance: 1387887.00,
+    accountNumber: "078-865656765",
+    balance: 0.00,
     messages: [
-      "Se realizó un abono de 1,387,887.00 a su cuenta fiduciaria terminada en 6567",
-      "Estado de cuenta retenido",
-      "Impuesto del gobierno 4x1000"
+      "mj",
+      "mj",
+      "mj"
     ]
   },
   {
