@@ -1,26 +1,39 @@
+// src/components/LoginForm.jsx
 import React, { useState } from 'react';
-import mockUsers from '../data/mockUser'; // Importa el mock
 
 const LoginForm = ({ closeModal, onLogin }) => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [message, setMessage] = useState('');
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // Verificar si el usuario existe
-    const user = mockUsers.find(
-      (user) => user.email === email && user.password === password
-    );
+    try {
+      // 🔹 Llamada a tu Apps Script
+      const response = await fetch('/api', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({ email, password }),
+});
 
-    if (user) {
-      setMessage('Inicio de sesión exitoso');
-      console.log('Usuario autenticado:', user);
-      onLogin(user);
+      const data = await response.json();
+
+      if (data.error) {
+        setMessage("Correo o contraseña incorrectos");
+        return;
+      }
+
+      // 🔹 Guardar usuario en localStorage (opcional)
+      localStorage.setItem("user", JSON.stringify(data));
+
+      setMessage("Inicio de sesión exitoso");
+      onLogin(data);
       closeModal();
-    } else {
-      setMessage('Correo o contraseña incorrectos');
+
+    } catch (error) {
+      console.error(error);
+      setMessage("Error al conectar con el servidor");
     }
   };
 
@@ -42,10 +55,13 @@ const LoginForm = ({ closeModal, onLogin }) => {
           onChange={(e) => setPassword(e.target.value)}
           required
         />
-        {message && <p>{message}</p>}  {/* Mostrar errores */}
+        {message && <p>{message}</p>}
         <button
           className="border border-black rounded-full px-2 py-2"
-          type="submit">Iniciar sesion</button>
+          type="submit"
+        >
+          Iniciar sesión
+        </button>
       </form>
     </div>
   );
