@@ -9,13 +9,17 @@ const LoginForm = ({ closeModal, onLogin }) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
+    const payload = { email, password };
+
     try {
-      // 🔹 Llamada a tu Apps Script
-      const response = await fetch("https://script.google.com/macros/s/AKfycbxrJ12cGt3kjQARo26bItj8A15m6mFiNeQhZ4JC7Kpcf-23GrUqTc3-BMR__I3y0v0f/exec", {
-  method: "POST",
-  headers: { "Content-Type": "application/json" },
-  body: JSON.stringify(formData)
-});
+      const response = await fetch(
+        "https://script.google.com/macros/s/AKfycbxrJ12cGt3kjQARo26bItj8A15m6mFiNeQhZ4JC7Kpcf-23GrUqTc3-BMR__I3y0v0f/exec",
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        }
+      );
 
       const data = await response.json();
 
@@ -24,7 +28,7 @@ const LoginForm = ({ closeModal, onLogin }) => {
         return;
       }
 
-      // 🔹 Guardar usuario en localStorage (opcional)
+      // Guardar usuario en localStorage (opcional)
       localStorage.setItem("user", JSON.stringify(data));
 
       setMessage("Inicio de sesión exitoso");
@@ -48,7 +52,7 @@ const LoginForm = ({ closeModal, onLogin }) => {
           onChange={(e) => setEmail(e.target.value)}
           required
         />
-        <input 
+        <input
           type="password"
           placeholder="Contraseña"
           value={password}
