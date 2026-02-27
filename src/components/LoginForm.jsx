@@ -13,7 +13,7 @@ const LoginForm = ({ closeModal, onLogin }) => {
 
     try {
       const response = await fetch(
-        "https://script.google.com/macros/s/AKfycbxrJ12cGt3kjQARo26bItj8A15m6mFiNeQhZ4JC7Kpcf-23GrUqTc3-BMR__I3y0v0f/exec",
+        "https://script.google.com/macros/s/AKfycbyoIZqORfVGSEzKYchDUyHUKmK6_hz2Oc27lKGl_jUsMZ8WgQE-q3_btq9hk8QHjCq4/exec",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
