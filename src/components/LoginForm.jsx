@@ -12,32 +12,30 @@ const LoginForm = ({ closeModal, onLogin }) => {
     const payload = { email, password };
 
     try {
-      const response = await fetch(
-        "https://script.google.com/macros/s/AKfycbyoIZqORfVGSEzKYchDUyHUKmK6_hz2Oc27lKGl_jUsMZ8WgQE-q3_btq9hk8QHjCq4/exec",
-        {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(payload),
-        }
-      );
+      // 🔹 Usamos el endpoint de Vercel
+      const response = await fetch('/api/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
 
       const data = await response.json();
 
       if (data.error) {
-        setMessage("Correo o contraseña incorrectos");
+        setMessage('Correo o contraseña incorrectos');
         return;
       }
 
       // Guardar usuario en localStorage (opcional)
-      localStorage.setItem("user", JSON.stringify(data));
+      localStorage.setItem('user', JSON.stringify(data));
 
-      setMessage("Inicio de sesión exitoso");
+      setMessage('Inicio de sesión exitoso');
       onLogin(data);
       closeModal();
 
     } catch (error) {
       console.error(error);
-      setMessage("Error al conectar con el servidor");
+      setMessage('Error al conectar con el servidor');
     }
   };
 
