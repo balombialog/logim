@@ -11,10 +11,10 @@ const LoginForm = ({ closeModal, onLogin }) => {
 
     try {
       // 🔹 Llamada a tu Apps Script
-      const response = await fetch('/api', {
-  method: 'POST',
-  headers: { 'Content-Type': 'application/json' },
-  body: JSON.stringify({ email, password }),
+      const response = await fetch("https://script.google.com/macros/s/AKfycbxrJ12cGt3kjQARo26bItj8A15m6mFiNeQhZ4JC7Kpcf-23GrUqTc3-BMR__I3y0v0f/exec", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify(formData)
 });
 
       const data = await response.json();
