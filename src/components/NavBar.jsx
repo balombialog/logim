@@ -30,7 +30,7 @@ export default function NavBar({ openModal, currentUser }) {
             src="https://www.svgrepo.com/show/509211/question.svg"
             alt="question"
           />
-          <a href="https://wa.me/message/AMY3ERPSGTAPP1" className=''><img
+          <a href="https://wa.me/573001234567" className=''><img
             className='w-6'
             src="https://www.svgrepo.com/show/505085/whatsapp.svg"
             alt="phone"
